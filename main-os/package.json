@@ -1,0 +1,70 @@
+{
+  "name": "easy-bords",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ably/spaces": "^0.2.0",
+    "@dnd-kit/core": "^6.0.8",
+    "@dnd-kit/sortable": "^7.0.2",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/joy": "^5.0.0-beta.13",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@tiptap/extension-character-count": "^2.1.12",
+    "@tiptap/extension-collaboration": "^2.1.12",
+    "@tiptap/extension-collaboration-cursor": "^2.1.12",
+    "@tiptap/extension-highlight": "^2.1.12",
+    "@tiptap/extension-task-item": "^2.1.12",
+    "@tiptap/extension-task-list": "^2.1.12",
+    "@tiptap/react": "^2.1.12",
+    "@tiptap/starter-kit": "^2.1.12",
+    "ably": "^1.2.46",
+    "classnames": "^2.3.2",
+    "dayjs": "^1.11.10",
+    "js-video-url-parser": "^0.5.1",
+    "randomcolor": "^0.6.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-resizable": "^3.0.5",
+    "react-scripts": "^5.0.1",
+    "react-spring": "^9.7.3",
+    "react-toastify": "^9.1.3",
+    "react-vega": "^7.6.0",
+    "remixicon": "^3.5.0",
+    "sass": "^1.69.5",
+    "vega": "^5.25.0",
+    "vega-lite": "^5.16.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.18.0",
+    "tailwindcss": "^3.3.5"
+  }
+}
